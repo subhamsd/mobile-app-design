@@ -1,0 +1,91 @@
+#title{
+  background-color: #e23e57;
+  text-align: center;
+}
+.navbar{
+  background-color: #e23e57;
+}
+ h1{
+   font-size: 5rem;
+   line-height: 3.5px;
+   font-style: italic;
+   padding: 50px;
+
+ }
+ h2{
+   padding: 20px;
+ }
+ .white{
+   color: #fff;
+   padding: 20%;
+ }
+.container-top{
+  padding: 3% 15%;
+  text-align: center;
+  color: #fff;
+
+}
+.image-title{
+  transform: rotate(25deg);
+  width: 60%;
+}
+.Download-button{
+  margin: 20px 10px;
+}
+
+/*features section*/
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
+.icon{
+  padding: 10px;
+  text-align:center;
+}
+/*testimonials*/
+#testimonials{
+  padding: 20px;
+  width: 100%;
+  background-color: #cd4545;
+  text-align: center;
+  line-height: 3px;
+  margin: 10px auto;
+   color: #fff;
+}
+
+.dogs{
+  padding: 30px;
+}
+#press{
+  text-align: center;
+  margin: 20px 0;
+}
+.p{
+  padding: 30px;
+}
+#pricing{
+  text-align: center;
+  padding: 20px;
+
+}
+/*************************card*************************/
+.cd{
+  padding: 20px;
+
+}
+
+#cta{
+  text-align: center;
+  padding: 10px;
+}
+#footer{
+  text-align: center;
+  padding: 10px;
+}
+@media (max-width: 1028px)  {
+  .image-title{
+    position: static;
+    transform: rotate(0);
+  }
+
+}
